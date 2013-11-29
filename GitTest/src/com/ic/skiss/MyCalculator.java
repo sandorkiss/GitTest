@@ -1,7 +1,6 @@
 package com.ic.skiss;
 
 public class MyCalculator {
-
 	/**
 	 * Simple class that will be checked into GitHub repository
 	 * @param a integer to be added together
